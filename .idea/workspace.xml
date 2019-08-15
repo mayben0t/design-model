@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8d96bd-9fc8-459b-92e6-c3ad8e062b12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/model2_template/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model2_template/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ideaProjects/model2_template/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ideaProjects/model2_template/Game.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +58,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
+  <component name="RunManager" selected="Application.Execute">
+    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model3_delegate.Execute" />
+      <module name="ideaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model3_delegate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InnerStaticClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="model1_singleton.InnerStaticClassTest" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="model1_singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model3_delegate.Main" />
+      <module name="ideaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model3_delegate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,6 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Execute" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.InnerStaticClassTest" />
       </list>
@@ -106,7 +135,11 @@
       <workItem from="1563796780100" duration="1200000" />
       <workItem from="1563895258650" duration="539000" />
       <workItem from="1564248790107" duration="34000" />
-      <workItem from="1565022902381" duration="1263000" />
+      <workItem from="1565022902381" duration="1996000" />
+      <workItem from="1565109057318" duration="599000" />
+      <workItem from="1565193360830" duration="599000" />
+      <workItem from="1565274995674" duration="8000" />
+      <workItem from="1565887008993" duration="632000" />
     </task>
     <servers />
   </component>
