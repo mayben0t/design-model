@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce8d96bd-9fc8-459b-92e6-c3ad8e062b12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ideaProjects/model2_template/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ideaProjects/model2_template/Game.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Execute">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="model3_delegate.Execute" />
       <module name="ideaProjects" />
@@ -72,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerStaticClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model1_singleton.InnerStaticClassTest" />
+    <configuration name="RealizetypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model4_prototype.RealizetypeTest" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model1_singleton.*" />
+          <option name="PATTERN" value="model4_prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model3_delegate.Main" />
+    <configuration name="ShapeCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model4_prototype.ShapeCache" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model3_delegate.*" />
+          <option name="PATTERN" value="model4_prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model2_template.MainClass" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model4_prototype.cloneDemo2.Test" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model2_template.*" />
+          <option name="PATTERN" value="model4_prototype.cloneDemo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model4_prototype.cloneDemo.Test" />
+      <module name="ideaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model4_prototype.cloneDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,10 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ShapeCache" />
+        <item itemvalue="Application.RealizetypeTest" />
         <item itemvalue="Application.Execute" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.InnerStaticClassTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +152,9 @@
       <workItem from="1565109057318" duration="599000" />
       <workItem from="1565193360830" duration="599000" />
       <workItem from="1565274995674" duration="8000" />
-      <workItem from="1565887008993" duration="632000" />
+      <workItem from="1565887008993" duration="1430000" />
+      <workItem from="1566572726562" duration="3597000" />
+      <workItem from="1566619684322" duration="3154000" />
     </task>
     <servers />
   </component>
@@ -158,6 +173,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model4_prototype/cloneDemo/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
