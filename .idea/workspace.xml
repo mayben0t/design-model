@@ -57,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="Execute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model3_delegate.Execute" />
+  <component name="RunManager" selected="Application.Player">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model5_factory.AbstractFactoryTest" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model3_delegate.*" />
+          <option name="PATTERN" value="model5_factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,25 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealizetypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model4_prototype.RealizetypeTest" />
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model6_decorator.Player" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model4_prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapeCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model4_prototype.ShapeCache" />
-      <module name="ideaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="model4_prototype.*" />
+          <option name="PATTERN" value="model6_decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestStarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model6_decorator.headFirst.TestStarbuzzCoffee" />
+      <module name="ideaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model6_decorator.headFirst.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Player" />
+        <item itemvalue="Application.TestStarbuzzCoffee" />
+        <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ShapeCache" />
-        <item itemvalue="Application.RealizetypeTest" />
-        <item itemvalue="Application.Execute" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,8 @@
       <workItem from="1565274995674" duration="8000" />
       <workItem from="1565887008993" duration="1430000" />
       <workItem from="1566572726562" duration="3597000" />
-      <workItem from="1566619684322" duration="3154000" />
+      <workItem from="1566619684322" duration="6361000" />
+      <workItem from="1566718587088" duration="2071000" />
     </task>
     <servers />
   </component>
