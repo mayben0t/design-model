@@ -57,13 +57,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Player">
+  <component name="RunManager" selected="Application.CommandPatternDemo">
     <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="model5_factory.AbstractFactoryTest" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="model5_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model7_order.CommandPatternDemo" />
+      <module name="ideaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model7_order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model4_prototype.cloneDemo.Test" />
-      <module name="ideaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="model4_prototype.cloneDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestStarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="model6_decorator.headFirst.TestStarbuzzCoffee" />
       <module name="ideaProjects" />
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandPatternDemo" />
         <item itemvalue="Application.Player" />
         <item itemvalue="Application.TestStarbuzzCoffee" />
         <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +155,8 @@
       <workItem from="1565887008993" duration="1430000" />
       <workItem from="1566572726562" duration="3597000" />
       <workItem from="1566619684322" duration="6361000" />
-      <workItem from="1566718587088" duration="2071000" />
+      <workItem from="1566718587088" duration="3272000" />
+      <workItem from="1566741532378" duration="474000" />
     </task>
     <servers />
   </component>
