@@ -38,6 +38,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -57,13 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommandPatternDemo">
-    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model5_factory.AbstractFactoryTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model7_order.CommandPatternDemo" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model5_factory.*" />
+          <option name="PATTERN" value="model7_order.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model7_order.CommandPatternDemo" />
+    <configuration name="InterpreterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model8_explain.runnoob.InterpreterPatternDemo" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model7_order.*" />
+          <option name="PATTERN" value="model8_explain.runnoob.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="model4_prototype.cloneDemo2.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model8_explain.Test" />
       <module name="ideaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="model4_prototype.cloneDemo2.*" />
+          <option name="PATTERN" value="model8_explain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.InterpreterPatternDemo" />
         <item itemvalue="Application.CommandPatternDemo" />
         <item itemvalue="Application.Player" />
         <item itemvalue="Application.TestStarbuzzCoffee" />
-        <item itemvalue="Application.AbstractFactoryTest" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,7 @@
       <workItem from="1566572726562" duration="3597000" />
       <workItem from="1566619684322" duration="6361000" />
       <workItem from="1566718587088" duration="3272000" />
-      <workItem from="1566741532378" duration="474000" />
+      <workItem from="1566741532378" duration="2889000" />
     </task>
     <servers />
   </component>
@@ -183,6 +184,21 @@
           <url>file://$PROJECT_DIR$/src/model4_prototype/cloneDemo/Test.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model8_explain/InterpreterPatternDemo.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model8_explain/InterpreterPatternDemo.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/model8_explain/InterpreterPatternDemo.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
